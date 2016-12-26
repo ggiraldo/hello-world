@@ -2,4 +2,4 @@
 
 Tutorial repo
 
-Here beggining to use giihub.
+Here beggining to use github.
